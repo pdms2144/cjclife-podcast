@@ -1,22 +1,23 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-    <title>CJC Life Podcast</title>
+    <title>Discover Your Purpose</title>
     <link>https://cjclife.com</link>
-    <description>At CJCLife, we're passionate about knowing Jesus, finding freedom, discovering purpose, and living the abundant life found in Christ. Join us at 6401 Bandera Rd, San Antonio TX 78238. Plan your visit: https://cjclife.com/plan-your-visit</description>
+    <description>Discover Your Purpose is a faith-based podcast hosted by Pastor Phillip Sundar from CJC Life Church in San Antonio, Texas. Each episode is designed to inspire, equip, and empower you to uncover your God-given purpose. Through biblical wisdom, real-life stories, and practical insights, Pastor Phillip helps you navigate life's challenges and step into your divine calling. Whether you're searching for direction, seeking spiritual growth, or looking to deepen your relationship with God, this podcast will guide you on your journey to purpose. Tune in and start discovering the life you were created to live.</description>
     <atom:link href="https://pdms2144.github.io/cjclife-podcast/feed.xml" rel="self" type="application/rss+xml"/>
     <language>en</language>
     <lastBuildDate>Mon, 11 Aug 2026 21:37:38 +0000</lastBuildDate>
-    <itunes:author>CJC Life</itunes:author>
+    <itunes:author>Phillip Sundar</itunes:author>
     <itunes:category text="Religion &amp; Spirituality">
       <itunes:category text="Christianity"/>
     </itunes:category>
     <itunes:image href="https://pdms2144.github.io/cjclife-podcast/cover.jpg"/>
     <itunes:explicit>no</itunes:explicit>
     <itunes:owner>
-      <itunes:name>CJC Life</itunes:name>
+      <itunes:name>Phillip Sundar</itunes:name>
       <itunes:email>philip@cjclife.com</itunes:email>
     </itunes:owner>
+    <itunes:type>episodic</itunes:type>
     <item>
       <title>CJC Life Sunday Service — August 10, 2026</title>
       <description>At CJCLife, we're passionate about knowing Jesus, finding freedom, discovering purpose, and living the abundant life found in Christ.
@@ -39,6 +40,7 @@
       <pubDate>Mon, 11 Aug 2026 21:37:38 +0000</pubDate>
       <itunes:duration>3032</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
     </item>
   </channel>
 </rss>
