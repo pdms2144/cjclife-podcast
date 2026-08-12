@@ -7,12 +7,12 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 12 Aug 2026 15:44:49 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 12 Aug 2026 17:25:22 +0000</lastBuildDate>
     <itunes:author>Phillip Sundar</itunes:author>
     <itunes:category text="Religion &amp; Spirituality">
       <itunes:category text="Christianity"/>
     </itunes:category>
-    <itunes:image href="https://cjclife.com/podcast-cover.jpg"/>
+    <itunes:image href="https://pdms2144.github.io/cjclife-podcast/cover.jpg"/>
     <itunes:explicit>no</itunes:explicit>
     <itunes:owner>
       <itunes:name>Phillip Sundar</itunes:name>
@@ -36,10 +36,13 @@
 
 🚀 Watch Live on YouTube: https://www.youtube.com/user/CJCSA?sub_confirmation=1</description>
       <guid isPermaLink="false">https://pdms2144.github.io/cjclife-podcast/episodes/episode_kIYGV3poulE_20260811.mp3</guid>
-      <enclosure url="https://pdms2144.github.io/cjclife-podcast/episodes/episode_kIYGV3poulE_20260811.mp3" length="26426314" type="audio/mpeg"/>
+      <enclosure url="https://pdms2144.github.io/cjclife-podcast/episodes/episode_kIYGV3poulE_20260811.mp3" length="26639820" type="audio/mpeg"/>
       <pubDate>Wed, 12 Aug 2026 15:44:49 +0000</pubDate>
       <itunes:duration>3032</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>1</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
     </item>
   </channel>
 </rss>
