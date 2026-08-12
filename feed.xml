@@ -1,0 +1,80 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+  <channel>
+    <title>CJC Life Podcast</title>
+    <link>https://pdms2144.github.io/cjclife-podcast/feed.xml</link>
+    <description>At CJCLife, we are passionate about knowing Jesus, finding freedom, discovering purpose, and living the abundant life found in Christ. Join us at 6401 Bandera Rd, San Antonio TX 78238. Plan your visit: https://cjclife.com/plan-your-visit</description>
+    <atom:link href="https://pdms2144.github.io/cjclife-podcast/feed.xml" rel="self"/>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>python-feedgen</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 12 Aug 2026 02:48:43 +0000</lastBuildDate>
+    <itunes:author>CJC Life</itunes:author>
+    <itunes:category text="Religion &amp; Spirituality">
+      <itunes:category text="Christianity"/>
+    </itunes:category>
+    <itunes:image href="https://pdms2144.github.io/cjclife-podcast/cover.jpg"/>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:owner>
+      <itunes:name>CJC Life</itunes:name>
+      <itunes:email>info@cjclife.com</itunes:email>
+    </itunes:owner>
+    <item>
+      <title>CJC Life Live Stream Recap — August 10, 2026</title>
+      <description>AI-generated recap of the August 10, 2026 live stream. Powered by Claude + Podcastfy.</description>
+      <guid isPermaLink="false">https://pdms2144.github.io/cjclife-podcast/episodes/recap_2026-08-10_kIYGV3poulE.mp3</guid>
+      <enclosure url="https://pdms2144.github.io/cjclife-podcast/episodes/recap_2026-08-10_kIYGV3poulE.mp3" length="4065357" type="audio/mpeg"/>
+      <pubDate>Mon, 10 Aug 2026 22:55:04 +0000</pubDate>
+      <itunes:duration>0</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>CJC Life Live Stream Recap — August 11, 2026</title>
+      <description>AI-generated recap of the August 11, 2026 live stream at CJC Life.
+
+At CJCLife, we're passionate about knowing Jesus, finding freedom, discovering purpose, and living the abundant life found in Christ.
+
+🎯 Plan Your Visit: https://cjclife.com/plan-your-visit
+📖 Sermon Notes: https://cjclife.com/notes
+📧 Weekly Newsletter: https://cjclife.churchcenter.com/people/forms/1257261
+👣 Next Steps: https://cjclife.com/nextsteps
+🙏 First Fruits to the Lord: https://cjclife.com/cjclife
+
+📍 Services &amp; Location: 6401 Bandera Rd, San Antonio TX 78238
+  • Saturday 9 AM — Prayer Service (1st, 2nd, 3rd Saturdays on Zoom ID: 210.724.3353 | 4th Saturday in person)
+  • Sunday 8 AM — Tamil Service
+  • Sunday 10:30 AM — English Service
+  • 2nd Sunday 6 PM — Telugu Service
+
+🚀 Watch Live on YouTube: https://www.youtube.com/user/CJCSA?sub_confirmation=1</description>
+      <guid isPermaLink="false">https://pdms2144.github.io/cjclife-podcast/episodes/recap_2026-08-11_kIYGV3poulE.mp3</guid>
+      <enclosure url="https://pdms2144.github.io/cjclife-podcast/episodes/recap_2026-08-11_kIYGV3poulE.mp3" length="4125933" type="audio/mpeg"/>
+      <pubDate>Wed, 12 Aug 2026 01:33:59 +0000</pubDate>
+      <itunes:duration>0</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+      <title>CJC Life Sunday Service — August 10, 2026</title>
+      <description>At CJCLife, we're passionate about knowing Jesus, finding freedom, discovering purpose, and living the abundant life found in Christ.
+
+🎯 Plan Your Visit: https://cjclife.com/plan-your-visit
+📖 Sermon Notes: https://cjclife.com/notes
+📧 Weekly Newsletter: https://cjclife.churchcenter.com/people/forms/1257261
+👣 Next Steps: https://cjclife.com/nextsteps
+🙏 First Fruits to the Lord: https://cjclife.com/cjclife
+
+📍 Services &amp; Location: 6401 Bandera Rd, San Antonio TX 78238
+  • Saturday 9 AM — Prayer Service (1st, 2nd, 3rd Saturdays on Zoom ID: 210.724.3353 | 4th Saturday in person)
+  • Sunday 8 AM — Tamil Service
+  • Sunday 10:30 AM — English Service
+  • 2nd Sunday 6 PM — Telugu Service
+
+🚀 Watch Live on YouTube: https://www.youtube.com/user/CJCSA?sub_confirmation=1</description>
+      <guid isPermaLink="false">https://pdms2144.github.io/cjclife-podcast/episodes/episode_kIYGV3poulE_20260811.mp3</guid>
+      <enclosure url="https://pdms2144.github.io/cjclife-podcast/episodes/episode_kIYGV3poulE_20260811.mp3" length="26427051" type="audio/mpeg"/>
+      <pubDate>Wed, 12 Aug 2026 02:37:38 +0000</pubDate>
+      <itunes:duration>3032</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+  </channel>
+</rss>
