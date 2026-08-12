@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 12 Aug 2026 15:23:36 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 12 Aug 2026 15:44:49 +0000</lastBuildDate>
     <itunes:author>Phillip Sundar</itunes:author>
     <itunes:category text="Religion &amp; Spirituality">
       <itunes:category text="Christianity"/>
@@ -19,7 +19,7 @@
       <itunes:email>philip@cjclife.com</itunes:email>
     </itunes:owner>
     <item>
-      <title>Sunday Service — August 10, 2026</title>
+      <title>The Illusion of Perfection - A lawnmower parent &amp; A submariner parent</title>
       <description>At CJCLife, we're passionate about knowing Jesus, finding freedom, discovering purpose, and living the abundant life found in Christ.
 
 🎯 Plan Your Visit: https://cjclife.com/plan-your-visit
@@ -37,30 +37,7 @@
 🚀 Watch Live on YouTube: https://www.youtube.com/user/CJCSA?sub_confirmation=1</description>
       <guid isPermaLink="false">https://pdms2144.github.io/cjclife-podcast/episodes/episode_kIYGV3poulE_20260811.mp3</guid>
       <enclosure url="https://pdms2144.github.io/cjclife-podcast/episodes/episode_kIYGV3poulE_20260811.mp3" length="26426314" type="audio/mpeg"/>
-      <pubDate>Wed, 12 Aug 2026 14:50:17 +0000</pubDate>
-      <itunes:duration>3032</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <title>Sunday Service — August 10, 2026</title>
-      <description>At CJCLife, we're passionate about knowing Jesus, finding freedom, discovering purpose, and living the abundant life found in Christ.
-
-🎯 Plan Your Visit: https://cjclife.com/plan-your-visit
-📖 Sermon Notes: https://cjclife.com/notes
-📧 Weekly Newsletter: https://cjclife.churchcenter.com/people/forms/1257261
-👣 Next Steps: https://cjclife.com/nextsteps
-🙏 First Fruits to the Lord: https://cjclife.com/cjclife
-
-📍 Services &amp; Location: 6401 Bandera Rd, San Antonio TX 78238
-  • Saturday 9 AM — Prayer Service (1st, 2nd, 3rd Saturdays on Zoom ID: 210.724.3353 | 4th Saturday in person)
-  • Sunday 8 AM — Tamil Service
-  • Sunday 10:30 AM — English Service
-  • 2nd Sunday 6 PM — Telugu Service
-
-🚀 Watch Live on YouTube: https://www.youtube.com/user/CJCSA?sub_confirmation=1</description>
-      <guid isPermaLink="false">https://pdms2144.github.io/cjclife-podcast/episodes/episode_kIYGV3poulE_20260812.mp3</guid>
-      <enclosure url="https://pdms2144.github.io/cjclife-podcast/episodes/episode_kIYGV3poulE_20260812.mp3" length="26425377" type="audio/mpeg"/>
-      <pubDate>Wed, 12 Aug 2026 15:23:36 +0000</pubDate>
+      <pubDate>Wed, 12 Aug 2026 15:44:49 +0000</pubDate>
       <itunes:duration>3032</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
     </item>
