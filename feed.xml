@@ -1,26 +1,59 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
-  <channel>
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+  xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+  <title>Discover Your Purpose</title>
+  <link>https://pdms2144.github.io/cjclife-podcast/</link>
+  <description>Weekly sermons from CJCLife Church — know Jesus, find freedom, discover purpose, live the abundant life.</description>
+  <language>en-us</language>
+  <lastBuildDate>Sun, 13 Sep 2026 20:12:06 GMT</lastBuildDate>
+  <atom:link href="https://pdms2144.github.io/cjclife-podcast/feed.xml" rel="self" type="application/rss+xml"/>
+  <itunes:author>Phillip Sundar</itunes:author>
+  <itunes:summary>Weekly sermons from CJCLife Church — know Jesus, find freedom, discover purpose, live the abundant life.</itunes:summary>
+  <itunes:owner>
+    <itunes:name>Phillip Sundar</itunes:name>
+    <itunes:email>philip@glakh.com</itunes:email>
+  </itunes:owner>
+  <itunes:image href="https://pdms2144.github.io/cjclife-podcast/cover.jpg"/>
+  <image>
+    <url>https://pdms2144.github.io/cjclife-podcast/cover.jpg</url>
     <title>Discover Your Purpose</title>
-    <link>https://cjclife.com</link>
-    <description>At CJCLife, we're passionate about knowing Jesus, finding freedom, discovering purpose, and living the abundant life found in Christ. Join us at 6401 Bandera Rd, San Antonio TX 78238. Plan your visit: https://cjclife.com/plan-your-visit</description>
-    <docs>http://www.rssboard.org/rss-specification</docs>
-    <generator>python-feedgen</generator>
-    <language>en</language>
-    <lastBuildDate>Tue, 08 Sep 2026 22:38:00 +0000</lastBuildDate>
+    <link>https://pdms2144.github.io/cjclife-podcast/</link>
+  </image>
+  <itunes:category text="Religion &amp; Spirituality"/>
+  <itunes:explicit>false</itunes:explicit>
+  <item>
+    <title>Love Without Dress Code</title>
+    <description><![CDATA[At CJCLife, we're passionate about knowing Jesus, finding freedom, discovering purpose, and living the abundant life found in Christ.
+
+🎯 Plan Your Visit: https://cjclife.com/plan-your-visit
+📖 Sermon Notes: https://cjclife.com/notes
+📧 Weekly Newsletter: https://cjclife.churchcenter.com/people/forms/1257261
+👣 Next Steps: https://cjclife.com/nextsteps
+🙏 First Fruits to the Lord: https://cjclife.com/cjclife
+
+📍 Services & Location: 6401 Bandera Rd, San Antonio TX 78238
+  • Saturday 9 AM — Prayer Service (1st, 2nd, 3rd Saturdays on Zoom ID: 210.724.3353 | 4th Saturday in person)
+  • Sunday 8 AM — Tamil Service
+  • Sunday 10:30 AM — English Service
+  • 2nd Sunday 6 PM — Telugu Service
+
+🚀 Watch Live on YouTube: https://www.youtube.com/user/CJCSA?sub_confirmation=1]]></description>
+    <enclosure url="https://pdms2144.github.io/cjclife-podcast/episodes/episode_v4DonLnh41I_20260913.mp3" length="58111053" type="audio/mpeg"/>
+    <guid isPermaLink="false">https://pdms2144.github.io/cjclife-podcast/episodes/episode_v4DonLnh41I_20260913.mp3</guid>
+    <pubDate>Sun, 13 Sep 2026 20:03:47 GMT</pubDate>
+    <itunes:title>Love Without Dress Code</itunes:title>
     <itunes:author>Phillip Sundar</itunes:author>
-    <itunes:category text="Religion &amp; Spirituality">
-      <itunes:category text="Christianity"/>
-    </itunes:category>
-    <itunes:image href="https://pdms2144.github.io/cjclife-podcast/cover.jpg"/>
-    <itunes:explicit>no</itunes:explicit>
-    <itunes:owner>
-      <itunes:name>Phillip Sundar</itunes:name>
-      <itunes:email>philip@cjclife.com</itunes:email>
-    </itunes:owner>
-    <item>
-      <title>The Prophet's Blind Spot | Reset 2026 Day 2: Prophetic Night</title>
-      <description>At CJCLife, we're passionate about knowing Jesus, finding freedom, discovering purpose, and living the abundant life found in Christ.
+    <itunes:duration>0:57:34</itunes:duration>
+    <itunes:season>1</itunes:season>
+    <itunes:episode>7</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+  </item>
+  <item>
+    <title>Walking in the Kingdom of God</title>
+    <description><![CDATA[At CJCLife, we're passionate about knowing Jesus, finding freedom, discovering purpose, and living the abundant life found in Christ.
 
 🎯 Plan Your Visit: https://cjclife.com/plan-your-visit
 📖 Sermon Notes: https://cjclife.com/notes
@@ -28,25 +61,26 @@
 👣 Next Steps: https://cjclife.com/nextsteps
 🙏 First Fruits to the Lord: https://cjclife.com/cjclife
 
-📍 Services &amp; Location: 6401 Bandera Rd, San Antonio TX 78238
+📍 Services & Location: 6401 Bandera Rd, San Antonio TX 78238
   • Saturday 9 AM — Prayer Service (1st, 2nd, 3rd Saturdays on Zoom ID: 210.724.3353 | 4th Saturday in person)
   • Sunday 8 AM — Tamil Service
   • Sunday 10:30 AM — English Service
   • 2nd Sunday 6 PM — Telugu Service
 
-🚀 Watch Live on YouTube: https://www.youtube.com/user/CJCSA?sub_confirmation=1</description>
-      <guid isPermaLink="false">https://pdms2144.github.io/cjclife-podcast/episodes/episode_pn3FbXv7EZg_20260812.mp3</guid>
-      <enclosure url="https://pdms2144.github.io/cjclife-podcast/episodes/episode_pn3FbXv7EZg_20260812.mp3" length="46710162" type="audio/mpeg"/>
-      <pubDate>Wed, 12 Aug 2026 10:00:00 +0000</pubDate>
-      <itunes:duration>2977</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:season>1</itunes:season>
-      <itunes:episode>2</itunes:episode>
-      <itunes:episodeType>full</itunes:episodeType>
-    </item>
-    <item>
-      <title>Fighting Fair: The Shepherd Parents | Sunday Service</title>
-      <description>At CJCLife, we're passionate about knowing Jesus, finding freedom, discovering purpose, and living the abundant life found in Christ.
+🚀 Watch Live on YouTube: https://www.youtube.com/user/CJCSA?sub_confirmation=1]]></description>
+    <enclosure url="https://pdms2144.github.io/cjclife-podcast/episodes/episode_ASK7sVCVZhY_20260908.mp3" length="51523681" type="audio/mpeg"/>
+    <guid isPermaLink="false">https://pdms2144.github.io/cjclife-podcast/episodes/episode_ASK7sVCVZhY_20260908.mp3</guid>
+    <pubDate>Tue, 08 Sep 2026 22:38:00 GMT</pubDate>
+    <itunes:title>Walking in the Kingdom of God</itunes:title>
+    <itunes:author>Phillip Sundar</itunes:author>
+    <itunes:duration>0:53:23</itunes:duration>
+    <itunes:season>1</itunes:season>
+    <itunes:episode>6</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+  </item>
+  <item>
+    <title>Two Ways to Enter Marriage</title>
+    <description><![CDATA[At CJCLife, we're passionate about knowing Jesus, finding freedom, discovering purpose, and living the abundant life found in Christ.
 
 🎯 Plan Your Visit: https://cjclife.com/plan-your-visit
 📖 Sermon Notes: https://cjclife.com/notes
@@ -54,25 +88,26 @@
 👣 Next Steps: https://cjclife.com/nextsteps
 🙏 First Fruits to the Lord: https://cjclife.com/cjclife
 
-📍 Services &amp; Location: 6401 Bandera Rd, San Antonio TX 78238
+📍 Services & Location: 6401 Bandera Rd, San Antonio TX 78238
   • Saturday 9 AM — Prayer Service (1st, 2nd, 3rd Saturdays on Zoom ID: 210.724.3353 | 4th Saturday in person)
   • Sunday 8 AM — Tamil Service
   • Sunday 10:30 AM — English Service
   • 2nd Sunday 6 PM — Telugu Service
 
-🚀 Watch Live on YouTube: https://www.youtube.com/user/CJCSA?sub_confirmation=1</description>
-      <guid isPermaLink="false">https://pdms2144.github.io/cjclife-podcast/episodes/episode_2au-AKJ4dyM_20260816.mp3</guid>
-      <enclosure url="https://pdms2144.github.io/cjclife-podcast/episodes/episode_2au-AKJ4dyM_20260816.mp3" length="61643099" type="audio/mpeg"/>
-      <pubDate>Wed, 12 Aug 2026 11:00:00 +0000</pubDate>
-      <itunes:duration>3872</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:season>1</itunes:season>
-      <itunes:episode>3</itunes:episode>
-      <itunes:episodeType>full</itunes:episodeType>
-    </item>
-    <item>
-      <title>The Illusion of Perfection - A lawnmower parent &amp; A submariner parent</title>
-      <description>At CJCLife, we're passionate about knowing Jesus, finding freedom, discovering purpose, and living the abundant life found in Christ.
+🚀 Watch Live on YouTube: https://www.youtube.com/user/CJCSA?sub_confirmation=1]]></description>
+    <enclosure url="https://pdms2144.github.io/cjclife-podcast/episodes/episode_eQTPerfOh3I_20260830.mp3" length="71732220" type="audio/mpeg"/>
+    <guid isPermaLink="false">https://pdms2144.github.io/cjclife-podcast/episodes/episode_eQTPerfOh3I_20260830.mp3</guid>
+    <pubDate>Sun, 30 Aug 2026 23:02:19 GMT</pubDate>
+    <itunes:title>Two Ways to Enter Marriage</itunes:title>
+    <itunes:author>Phillip Sundar</itunes:author>
+    <itunes:duration>1:14:42</itunes:duration>
+    <itunes:season>1</itunes:season>
+    <itunes:episode>5</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+  </item>
+  <item>
+    <title>From Wounded Children to Gospel-Shaped Parents</title>
+    <description><![CDATA[At CJCLife, we're passionate about knowing Jesus, finding freedom, discovering purpose, and living the abundant life found in Christ.
 
 🎯 Plan Your Visit: https://cjclife.com/plan-your-visit
 📖 Sermon Notes: https://cjclife.com/notes
@@ -80,25 +115,26 @@
 👣 Next Steps: https://cjclife.com/nextsteps
 🙏 First Fruits to the Lord: https://cjclife.com/cjclife
 
-📍 Services &amp; Location: 6401 Bandera Rd, San Antonio TX 78238
+📍 Services & Location: 6401 Bandera Rd, San Antonio TX 78238
   • Saturday 9 AM — Prayer Service (1st, 2nd, 3rd Saturdays on Zoom ID: 210.724.3353 | 4th Saturday in person)
   • Sunday 8 AM — Tamil Service
   • Sunday 10:30 AM — English Service
   • 2nd Sunday 6 PM — Telugu Service
 
-🚀 Watch Live on YouTube: https://www.youtube.com/user/CJCSA?sub_confirmation=1</description>
-      <guid isPermaLink="false">https://pdms2144.github.io/cjclife-podcast/episodes/episode_kIYGV3poulE_20260811.mp3</guid>
-      <enclosure url="https://pdms2144.github.io/cjclife-podcast/episodes/episode_kIYGV3poulE_20260811.mp3" length="50100229" type="audio/mpeg"/>
-      <pubDate>Wed, 12 Aug 2026 15:44:49 +0000</pubDate>
-      <itunes:duration>3044</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:season>1</itunes:season>
-      <itunes:episode>1</itunes:episode>
-      <itunes:episodeType>full</itunes:episodeType>
-    </item>
-    <item>
-      <title>From Wounded Children to Gospel-Shaped Parents</title>
-      <description>At CJCLife, we're passionate about knowing Jesus, finding freedom, discovering purpose, and living the abundant life found in Christ.
+🚀 Watch Live on YouTube: https://www.youtube.com/user/CJCSA?sub_confirmation=1]]></description>
+    <enclosure url="https://pdms2144.github.io/cjclife-podcast/episodes/episode_alHMaLE7rbE_20260824.mp3" length="52469812" type="audio/mpeg"/>
+    <guid isPermaLink="false">https://pdms2144.github.io/cjclife-podcast/episodes/episode_alHMaLE7rbE_20260824.mp3</guid>
+    <pubDate>Mon, 24 Aug 2026 20:21:50 GMT</pubDate>
+    <itunes:title>From Wounded Children to Gospel-Shaped Parents</itunes:title>
+    <itunes:author>Phillip Sundar</itunes:author>
+    <itunes:duration>0:54:51</itunes:duration>
+    <itunes:season>1</itunes:season>
+    <itunes:episode>4</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+  </item>
+  <item>
+    <title>The Illusion of Perfection - A lawnmower parent &amp; A submariner parent</title>
+    <description><![CDATA[At CJCLife, we're passionate about knowing Jesus, finding freedom, discovering purpose, and living the abundant life found in Christ.
 
 🎯 Plan Your Visit: https://cjclife.com/plan-your-visit
 📖 Sermon Notes: https://cjclife.com/notes
@@ -106,25 +142,26 @@
 👣 Next Steps: https://cjclife.com/nextsteps
 🙏 First Fruits to the Lord: https://cjclife.com/cjclife
 
-📍 Services &amp; Location: 6401 Bandera Rd, San Antonio TX 78238
+📍 Services & Location: 6401 Bandera Rd, San Antonio TX 78238
   • Saturday 9 AM — Prayer Service (1st, 2nd, 3rd Saturdays on Zoom ID: 210.724.3353 | 4th Saturday in person)
   • Sunday 8 AM — Tamil Service
   • Sunday 10:30 AM — English Service
   • 2nd Sunday 6 PM — Telugu Service
 
-🚀 Watch Live on YouTube: https://www.youtube.com/user/CJCSA?sub_confirmation=1</description>
-      <guid isPermaLink="false">https://pdms2144.github.io/cjclife-podcast/episodes/episode_alHMaLE7rbE_20260824.mp3</guid>
-      <enclosure url="https://pdms2144.github.io/cjclife-podcast/episodes/episode_alHMaLE7rbE_20260824.mp3" length="52469812" type="audio/mpeg"/>
-      <pubDate>Mon, 24 Aug 2026 20:21:50 +0000</pubDate>
-      <itunes:duration>3291</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:season>1</itunes:season>
-      <itunes:episode>4</itunes:episode>
-      <itunes:episodeType>full</itunes:episodeType>
-    </item>
-    <item>
-      <title>Two Ways to Enter Marriage</title>
-      <description>At CJCLife, we're passionate about knowing Jesus, finding freedom, discovering purpose, and living the abundant life found in Christ.
+🚀 Watch Live on YouTube: https://www.youtube.com/user/CJCSA?sub_confirmation=1]]></description>
+    <enclosure url="https://pdms2144.github.io/cjclife-podcast/episodes/episode_kIYGV3poulE_20260811.mp3" length="50100229" type="audio/mpeg"/>
+    <guid isPermaLink="false">https://pdms2144.github.io/cjclife-podcast/episodes/episode_kIYGV3poulE_20260811.mp3</guid>
+    <pubDate>Wed, 12 Aug 2026 15:44:49 GMT</pubDate>
+    <itunes:title>The Illusion of Perfection - A lawnmower parent &amp; A submariner parent</itunes:title>
+    <itunes:author>Phillip Sundar</itunes:author>
+    <itunes:duration>0:50:44</itunes:duration>
+    <itunes:season>1</itunes:season>
+    <itunes:episode>1</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+  </item>
+  <item>
+    <title>Fighting Fair: The Shepherd Parents | Sunday Service</title>
+    <description><![CDATA[At CJCLife, we're passionate about knowing Jesus, finding freedom, discovering purpose, and living the abundant life found in Christ.
 
 🎯 Plan Your Visit: https://cjclife.com/plan-your-visit
 📖 Sermon Notes: https://cjclife.com/notes
@@ -132,25 +169,26 @@
 👣 Next Steps: https://cjclife.com/nextsteps
 🙏 First Fruits to the Lord: https://cjclife.com/cjclife
 
-📍 Services &amp; Location: 6401 Bandera Rd, San Antonio TX 78238
+📍 Services & Location: 6401 Bandera Rd, San Antonio TX 78238
   • Saturday 9 AM — Prayer Service (1st, 2nd, 3rd Saturdays on Zoom ID: 210.724.3353 | 4th Saturday in person)
   • Sunday 8 AM — Tamil Service
   • Sunday 10:30 AM — English Service
   • 2nd Sunday 6 PM — Telugu Service
 
-🚀 Watch Live on YouTube: https://www.youtube.com/user/CJCSA?sub_confirmation=1</description>
-      <guid isPermaLink="false">https://pdms2144.github.io/cjclife-podcast/episodes/episode_eQTPerfOh3I_20260830.mp3</guid>
-      <enclosure url="https://pdms2144.github.io/cjclife-podcast/episodes/episode_eQTPerfOh3I_20260830.mp3" length="71732220" type="audio/mpeg"/>
-      <pubDate>Sun, 30 Aug 2026 23:02:19 +0000</pubDate>
-      <itunes:duration>4482</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:season>1</itunes:season>
-      <itunes:episode>5</itunes:episode>
-      <itunes:episodeType>full</itunes:episodeType>
-    </item>
-    <item>
-      <title>Walking in the Kingdom of God</title>
-      <description>At CJCLife, we're passionate about knowing Jesus, finding freedom, discovering purpose, and living the abundant life found in Christ.
+🚀 Watch Live on YouTube: https://www.youtube.com/user/CJCSA?sub_confirmation=1]]></description>
+    <enclosure url="https://pdms2144.github.io/cjclife-podcast/episodes/episode_2au-AKJ4dyM_20260816.mp3" length="61643099" type="audio/mpeg"/>
+    <guid isPermaLink="false">https://pdms2144.github.io/cjclife-podcast/episodes/episode_2au-AKJ4dyM_20260816.mp3</guid>
+    <pubDate>Wed, 12 Aug 2026 11:00:00 GMT</pubDate>
+    <itunes:title>Fighting Fair: The Shepherd Parents | Sunday Service</itunes:title>
+    <itunes:author>Phillip Sundar</itunes:author>
+    <itunes:duration>1:04:32</itunes:duration>
+    <itunes:season>1</itunes:season>
+    <itunes:episode>3</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+  </item>
+  <item>
+    <title>The Prophet's Blind Spot | Reset 2026 Day 2: Prophetic Night</title>
+    <description><![CDATA[At CJCLife, we're passionate about knowing Jesus, finding freedom, discovering purpose, and living the abundant life found in Christ.
 
 🎯 Plan Your Visit: https://cjclife.com/plan-your-visit
 📖 Sermon Notes: https://cjclife.com/notes
@@ -158,21 +196,22 @@
 👣 Next Steps: https://cjclife.com/nextsteps
 🙏 First Fruits to the Lord: https://cjclife.com/cjclife
 
-📍 Services &amp; Location: 6401 Bandera Rd, San Antonio TX 78238
+📍 Services & Location: 6401 Bandera Rd, San Antonio TX 78238
   • Saturday 9 AM — Prayer Service (1st, 2nd, 3rd Saturdays on Zoom ID: 210.724.3353 | 4th Saturday in person)
   • Sunday 8 AM — Tamil Service
   • Sunday 10:30 AM — English Service
   • 2nd Sunday 6 PM — Telugu Service
 
-🚀 Watch Live on YouTube: https://www.youtube.com/user/CJCSA?sub_confirmation=1</description>
-      <guid isPermaLink="false">https://pdms2144.github.io/cjclife-podcast/episodes/episode_ASK7sVCVZhY_20260908.mp3</guid>
-      <enclosure url="https://pdms2144.github.io/cjclife-podcast/episodes/episode_ASK7sVCVZhY_20260908.mp3" length="51523681" type="audio/mpeg"/>
-      <pubDate>Tue, 08 Sep 2026 22:38:00 +0000</pubDate>
-      <itunes:duration>3203</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:season>1</itunes:season>
-      <itunes:episode>6</itunes:episode>
-      <itunes:episodeType>full</itunes:episodeType>
-    </item>
-  </channel>
+🚀 Watch Live on YouTube: https://www.youtube.com/user/CJCSA?sub_confirmation=1]]></description>
+    <enclosure url="https://pdms2144.github.io/cjclife-podcast/episodes/episode_pn3FbXv7EZg_20260812.mp3" length="46710162" type="audio/mpeg"/>
+    <guid isPermaLink="false">https://pdms2144.github.io/cjclife-podcast/episodes/episode_pn3FbXv7EZg_20260812.mp3</guid>
+    <pubDate>Wed, 12 Aug 2026 10:00:00 GMT</pubDate>
+    <itunes:title>The Prophet's Blind Spot | Reset 2026 Day 2: Prophetic Night</itunes:title>
+    <itunes:author>Phillip Sundar</itunes:author>
+    <itunes:duration>0:49:37</itunes:duration>
+    <itunes:season>1</itunes:season>
+    <itunes:episode>2</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+  </item>
+</channel>
 </rss>
