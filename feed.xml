@@ -7,12 +7,12 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 15 Nov 2026 19:55:25 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 18 Nov 2026 21:58:04 +0000</lastBuildDate>
     <itunes:author>Phillip Sundar</itunes:author>
     <itunes:category text="Religion &amp; Spirituality">
       <itunes:category text="Christianity"/>
     </itunes:category>
-    <itunes:image href="https://pdms2144.github.io/cjclife-podcast/cover.jpg"/>
+    <itunes:image href="https://pdms2144.github.io/cjclife-podcast/podcast_artwork.jpg"/>
     <itunes:explicit>no</itunes:explicit>
     <itunes:owner>
       <itunes:name>Phillip Sundar</itunes:name>
@@ -436,10 +436,10 @@
     </item>
     <item>
       <title>Jesus Said More About Judgment Than We Want to Hear</title>
-      <description>At CJCLife, we're passionate about knowing Jesus, finding freedom, discovering purpose, and living the abundant life found in Christ.
+      <description>Jesus said more about judgment than most of us want to hear — and that's exactly why we need to listen.
 
 🌐 Connect with us: https://souls.cjclife.com
-📖 Sermon Notes: https://notes.cjclife.com
+📖 This Week's Sermon Notes: https://notes.cjclife.com/sunday_111526
 🙏 Give &amp; Partner: https://cjclife.com/cjclife
 🚀 Watch Live: https://www.youtube.com/user/CJCSA?sub_confirmation=1</description>
       <guid isPermaLink="false">https://pdms2144.github.io/cjclife-podcast/episodes/episode_cGiAqDTsGwQ_20261115.mp3</guid>
